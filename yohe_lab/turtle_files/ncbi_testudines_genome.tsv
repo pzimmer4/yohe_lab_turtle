@@ -1,0 +1,103 @@
+Assembly Accession	Assembly Name	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds
+GCA_013100865.1	CAS_Tse_1.0	Trachemys scripta elegans					TJP31775			Chromosome	2020-05-15	VIRI01	137
+GCF_013100865.1	CAS_Tse_1.0	Trachemys scripta elegans					TJP31775		NCBI Trachemys scripta elegans Annotation Release 100	Chromosome	2020-05-15	VIRI01	137
+GCA_015237465.2	rCheMyd1.pri.v2	Chelonia mydas					rCheMyd1	male		Chromosome	2021-07-15	JADCQM02	92
+GCF_015237465.2	rCheMyd1.pri.v2	Chelonia mydas					rCheMyd1	male	NCBI Chelonia mydas Annotation Release 103	Chromosome	2021-07-15	JADCQM02	92
+GCA_011386835.2	ASM1138683v2	Chrysemys picta bellii					R12L10	male		Chromosome	2023-09-08	JAAOEE02	9850
+GCF_011386835.1	ASM1138683v2	Chrysemys picta bellii					R12L10	male	GCF_011386835.1-RS_2024_05	Chromosome	2023-09-08	JAAOEE02	9850
+GCA_016161935.1	ASM1616193v1	Mauremys reevesii					NIE-2019	female		Chromosome	2020-12-22	JADWOL01	229
+GCF_016161935.1	ASM1616193v1	Mauremys reevesii					NIE-2019	female	NCBI Mauremys reevesii Annotation Release 100	Chromosome	2020-12-22	JADWOL01	229
+GCF_023653815.2	GSC_CCare_1.0	Caretta caretta					SJ_126:Eziel1	female	NCBI Caretta caretta Annotation Release 100	Chromosome	2022-06-07	JAMOIO01	2007
+GCA_030068395.1	ASM3006839v1	Apalone spinifera		ASPF				female		Chromosome	2023-06-05	JANRFK01	6699
+GCA_030012505.1	ASM3001250v1	Eretmochelys imbricata					B2_1			Chromosome	2023-05-15	JARRBA01	208
+GCA_045364815.1	rPodExp1 haplotype 2	Podocnemis expansa					rPodExp1	male		Chromosome	2024-12-02	JBIYRF01	725
+GCA_020497125.1	ASM2049712v1	Mauremys mutica				Southern	MM-2020	female	Annotation submitted by Institute of Zoology, Guangdong Academy of Science	Chromosome	2021-10-14	JAHDVG01	594
+GCF_020497125.1	ASM2049712v1	Mauremys mutica				Southern	MM-2020	female	NCBI Mauremys mutica Annotation Release 100	Chromosome	2021-10-14	JAHDVG01	594
+GCA_009764565.4	rDerCor1.pri.v4	Dermochelys coriacea					rDerCor1	male		Chromosome	2021-08-25	WSPL04	40
+GCF_009764565.3	rDerCor1.pri.v4	Dermochelys coriacea					rDerCor1	male	NCBI Dermochelys coriacea Annotation Release 101	Chromosome	2021-08-25	WSPL04	40
+GCA_027887155.1	rMalTer1.hap1	Malaclemys terrapin pileata					rMalTer1	male		Chromosome	2023-01-18	JAQIHI01	76
+GCF_027887155.1	rMalTer1.hap1	Malaclemys terrapin pileata					rMalTer1	male	GCF_027887155.1-RS_2023_03	Chromosome	2023-01-18	JAQIHI01	76
+GCA_033958435.1	ASM3395843v1	Carettochelys insculpta					YL-2023			Chromosome	2023-11-27	JAWWUY01	134
+GCA_028017835.1	rEmyOrb1.hap1	Emys orbicularis					rEmyOrb1	male		Chromosome	2023-01-30	JAQMCU01	106
+GCF_028017835.1	rEmyOrb1.hap1	Emys orbicularis					rEmyOrb1	male	GCF_028017835.1-RS_2024_05	Chromosome	2023-01-30	JAQMCU01	106
+GCA_025201925.1	rGopFla2.mat.asm	Gopherus flavomarginatus					rGopFla2			Chromosome	2022-09-15	JAMKFC01	621
+GCF_025201925.1	rGopFla2.mat.asm	Gopherus flavomarginatus					rGopFla2		GCF_025201925.1-RS_2023_02	Chromosome	2022-09-15	JAMKFC01	621
+GCA_026122505.1	AldGig_1.0	Aldabrachelys gigantea					Hermania_blood	female		Chromosome	2022-11-15	JALNIE01	719
+GCA_033296515.1	rMacSuw1.hap1	Macrochelys suwanniensis					rMacSuw1	male		Chromosome	2023-11-06	JAVFKX01	366
+GCA_032595735.1	ASM3259573v1	Pelochelys cantorii					Pc-202001	female		Chromosome	2023-10-12	JAVXUU01	64
+GCA_019425775.1	ASM1942577v1	Rafetus swinhoei					2020-BB_v1	female		Chromosome	2021-07-30	JAFJHL01	717
+GCA_007399415.1	rGopEvg1_v1.p	Gopherus evgoodei				Sinaloan lineage		male		Chromosome	2019-07-25	VHHN01	382
+GCF_007399415.2	rGopEvg1_v1.p	Gopherus evgoodei				Sinaloan lineage		male	NCBI Gopherus evgoodei Annotation Release 100	Chromosome	2019-07-25	VHHN01	382
+GCA_040782865.1	ASM4078286v1	Testudo graeca				T. g. whitei from Iberian southeast	TG-2024a			Chromosome	2024-07-19	JBDODH01	82171
+GCA_045781095.1	rPanTec1.hap1	Pangshura tecta					rPanTec1	male		Chromosome	2024-12-06	JBJABT01	629
+GCA_044707075.1	ASM4470707v1	Staurotypus triporcatus	Mexican musk turtle				STRM	male		Chromosome	2024-11-13	JBIMEA01	29375
+GCA_000230535.1	PelSin_1.0	Pelodiscus sinensis					Daiwa-1	female		Scaffold	2012-07-24	AGCU01	19903
+GCF_000230535.1	PelSin_1.0	Pelodiscus sinensis					Daiwa-1	female	NCBI Pelodiscus sinensis Annotation Release 102	Scaffold	2012-07-24	AGCU01	19903
+GCA_022086475.1	rActMar1.p	Actinemys marmorata					WTP2003	male		Scaffold	2022-02-09	JAJLPC01	47
+GCA_037349315.1	rCheSer1_p1.0	Chelydra serpentina					SnappingTurtle01	male		Contig	2024-03-20	JBAIAC01	
+GCA_032172135.1	rGlyIns1_p1.0	Glyptemys insculpta					WoodTurtle02	male		Scaffold	2023-09-28	JAVMKA01	105
+GCA_023634205.1	rActPal1.0.p	Actinemys pallida					HBS135687	male		Scaffold	2022-06-01	JALMGD01	52
+GCA_040894355.1	rMyuGeo1.pri.20230808	Myuchelys georgesi					BRST_UC0152H_USYD	male		Scaffold	2024-07-26	JAVCPN01	128
+GCA_007922225.1	Emydura_subglobosa-1.0	Emydura subglobosa						male		Scaffold	2019-08-05	VOCO01	43399
+GCA_003597395.1	ASM359739v1	Chelonoidis abingdonii					Lonesome George	male		Scaffold	2018-09-25	PKMU01	10618
+GCF_003597395.1	ASM359739v1	Chelonoidis abingdonii					Lonesome George	male	NCBI Chelonoidis abingdonii Annotation Release 100	Scaffold	2018-09-25	PKMU01	10618
+GCA_002896415.1	ASM289641v1	Gopherus agassizii						male		Scaffold	2018-01-24	PPEB01	172559
+GCA_037349215.1	rGraGeo1_p1.0	Graptemys geographica					NorthernMapTurtle01	female		Contig	2024-03-20	JBAIFT01	
+GCA_036785055.1	rEmyBla1_p1.0	Emydoidea blandingii					BlandingsTurtle06	female		Scaffold	2024-02-23	JAXIVB01	164
+GCA_026122565.2	CSIRO-AGI_Emac_v2	Emydura macquarii macquarii				Brisbane River	MOO-44397	female		Contig	2024-07-25	JAOCMD02	
+GCF_026122565.2	CSIRO-AGI_Emac_v2	Emydura macquarii macquarii				Brisbane River	MOO-44397	female	GCF_026122565.2-RS_2024_08	Contig	2024-07-25	JAOCMD02	
+GCA_032164245.1	rSteOdo2_p1.0	Sternotherus odoratus					MuskTurtle02	male		Scaffold	2023-09-29	JAVMKO01	217
+GCA_003942145.1	ASM394214v1	Platysternon megacephalum					DO16091913	male	Annotation submitted by Institute of Zoology,  Guangdong Academy of Sciences	Scaffold	2018-12-12	QXTE01	359693
+GCA_002925995.2	T_m_triunguis-2.0	Terrapene triunguis					2854851	male		Scaffold	2018-09-21	PRFB02	52260
+GCF_002925995.2	T_m_triunguis-2.0	Terrapene triunguis					2854851	male	NCBI Terrapene carolina triunguis Annotation Release 102	Scaffold	2018-09-21	PRFB02	52260
+GCA_007922175.1	Pelusios_castaneus-1.0	Pelusios castaneus						male		Scaffold	2019-08-01	VOCT01	69036
+GCA_003846335.1	ASM384633v1	Cuora mccordi					ISIS_951048	male		Scaffold	2018-11-28	RQSS01	100020
+GCA_004028625.2	ASM402862v2	Cuora amboinensis						male		Scaffold	2019-03-22	SCPV02	89628
+GCA_044758175.1	ASM4475817v1	Trionyx triunguis					UPRM_GenResCol_808_TJC335			Scaffold	2024-11-10	JBIMOU01	383989
+GCA_044758295.1	ASM4475829v1	Pelomedusa subrufa					UPRM_GenResCol_809_TJC336			Scaffold	2024-11-10	JBIMOV01	420363
+GCA_044758195.1	ASM4475819v1	Terrapene carolina					UPRM_GenResCol_1380_TJC754			Scaffold	2024-11-10	JBIMPH01	623398
+GCA_040208395.1	rCleGut1_p1.0	Clemmys guttata					SpottedTurtle04	female		Contig	2024-06-20	JBCDMO01	
+GCA_007922305.1	Dermatemys_mawii-1.0	Dermatemys mawii						male		Scaffold	2019-08-05	VOCN01	40852
+GCA_007922155.1	Mesoclemmys_tuberculata-1.0	Mesoclemmys tuberculata						male		Scaffold	2019-08-05	VOCS01	53667
+GCA_046118415.1	ASM4611841v1	Chelonoidis denticulatus					UPRMGRS_1149_TJC_1071			Scaffold	2024-12-16	JBJNID01	263351
+GCA_044758505.1	ASM4475850v1	Rhinoclemmys areolata					UPRM_GenResCol_1466_TJC840			Scaffold	2024-11-10	JBIMPB01	298617
+GCA_044758685.1	ASM4475868v1	Trachemys venusta					UPRMGRS_1542_TJC_955			Scaffold	2024-11-10	JBINOP01	659167
+GCA_023653815.1	GSC_CCare_1.0	Caretta caretta					SJ_126:Eziel1	female		Chromosome	2022-06-07	JAMOIO01	2007
+GCA_965117115.1	CarCar_QM_v1.21.12_Sc	Caretta caretta							Annotation submitted by Queen Mary University of London	Chromosome	2025-01-24	CBCPEM01	726
+GCA_032357905.1	AHNU_Mmut_1.0	Mauremys mutica					JL_2022a	male		Chromosome	2023-10-16	JAOTIE01	390
+GCA_045364785.1	rPodExp1 haplotype 1	Podocnemis expansa					rPodExp1	male		Chromosome	2024-12-02	JBIYRE01	2039
+GCA_027887205.1	rMalTer1.hap2	Malaclemys terrapin pileata					rMalTer1	male		Chromosome	2023-01-18	JAQIHJ01	59
+GCA_037113585.1	ASM3711358v1	Malaclemys terrapin centrata					HJ-2023a			Chromosome	2024-03-13	JAXIOJ01	42
+GCA_033349115.1	rMacSuw1.hap2	Macrochelys suwanniensis					rMacSuw1	male		Chromosome	2023-11-06	JAVFKW01	199
+GCA_045781085.1	rPanTec1.hap2	Pangshura tecta					rPanTec1	male		Chromosome	2024-12-06	JBJABS01	448
+GCA_015220195.2	rCheMyd1.alt.v2	Chelonia mydas					rCheMyd1	male		Scaffold	2021-07-15	JADCQN02	6737
+GCA_037356295.1	rChrPic2_a1.0	Chrysemys picta bellii					WesternPaintedTurtle01	female		Contig	2024-03-19	JAZIAY01	
+GCA_037349265.1	rChrPic2_p1.0	Chrysemys picta bellii					WesternPaintedTurtle01	female		Contig	2024-03-20	JAZIAX01	
+GCA_035221575.1	ASM3522157v1	Chrysemys picta bellii					R12L10	male		Scaffold	2024-01-08	JAULBH01	5376
+GCA_035221595.1	ASM3522159v1	Chrysemys picta bellii					R12L10	male		Scaffold	2024-01-08	JAULBI01	9371
+GCA_037418295.1	rChrPic1_a1.0	Chrysemys picta marginata					MidlandPaintedTurtle01	female		Contig	2024-03-21	JBAMNB01	
+GCA_037418315.1	rChrPic1_p1.0	Chrysemys picta marginata					MidlandPaintedTurtle01	female		Contig	2024-03-21	JBAMNA01	
+GCA_000385615.1	ASM38561v1	Apalone spinifera						male		Scaffold	2013-05-03	APJP01	286620
+GCA_037349245.1	rCheSer1_a1.0	Chelydra serpentina					SnappingTurtle01	male		Contig	2024-03-19	JBAIAD01	
+GCA_022086895.1	rActMar1.a	Actinemys marmorata					WTP2003	male		Scaffold	2022-02-08	JAJLPD01	2508
+GCA_018859375.1	ASM1885937v1	Chelydra serpentina					KW	female	Annotation submitted by University of North Dakota	Scaffold	2021-06-11	JAHGAV01	13221
+GCA_009762595.2	rDerCor1.alt.v2	Dermochelys coriacea					rDerCor1	male		Scaffold	2020-12-08	WSPM02	8999
+GCA_007922195.1	Podocnemis_expansa-1.0	Podocnemis expansa						male		Scaffold	2019-08-05	VOCP01	43498
+GCA_007922165.1	Chelydra_serpentina-1.0	Chelydra serpentina						male		Scaffold	2019-08-05	VOCR01	113431
+GCA_009430475.1	Amar_v1	Actinemys marmorata						female		Scaffold	2019-10-31	VOGN01	80763
+GCA_006547105.1	GSC_toitle_1.0	Dermochelys coriacea					2018-Dc-14	female		Scaffold	2019-07-01	VCRE01	56317
+GCA_001728815.2	terp_v2_2	Malaclemys terrapin terrapin						female		Contig	2016-09-20	MDXI01	
+GCA_023634275.1	rActPal1.0.a	Actinemys pallida					HBS135687	male		Scaffold	2022-06-01	JALMGE01	260
+GCA_028017845.1	rEmyOrb1.hap2	Emys orbicularis					rEmyOrb1	male		Scaffold	2023-01-26	JAQMCV01	156
+GCA_032172125.1	rGlyIns1_a1.0	Glyptemys insculpta					WoodTurtle02	male		Scaffold	2023-09-28	JAVMKB01	157
+GCA_025201965.1	rGopFla2.pat.asm	Gopherus flavomarginatus					rGopFla2			Scaffold	2022-09-08	JAMKFD01	2992
+GCA_007922185.1	Carettochelys_insculpta-1.0	Carettochelys insculpta						male		Scaffold	2019-08-05	VOCQ01	48450
+GCA_037349195.1	rGraGeo1_a1.0	Graptemys geographica					NorthernMapTurtle01	female		Contig	2024-03-19	JBAIFU01	
+GCA_036785025.1	rEmyBla1_a1.0	Emydoidea blandingii					BlandingsTurtle06	female		Scaffold	2024-02-22	JAXIVC01	101
+GCA_032164215.1	rSteOdo2_a1.0	Sternotherus odoratus					MuskTurtle02	male		Scaffold	2023-09-28	JAVMKP01	75
+GCA_007399395.1	rGopEvg1_v1.alt	Gopherus evgoodei				Sinaloan lineage		male		Contig	2019-07-24	VHHO01	
+GCA_040208425.1	rCleGut1_a1.0	Clemmys guttata					SpottedTurtle04	female		Contig	2024-06-17	JBCDMP01	
+GCF_000241765.5	Chrysemys_picta_BioNano-3.0.4	Chrysemys picta bellii					RCT428	female	NCBI Chrysemys picta Annotation Release 103	Chromosome	2020-08-21	AHGY03	74815
+GCA_000241765.5	Chrysemys_picta_BioNano-3.0.4	Chrysemys picta bellii					RCT428	female		Chromosome	2020-08-21	AHGY03	76427
+GCA_000344595.1	CheMyd_1.0	Chelonia mydas							Annotation submitted by BGI	Scaffold	2013-03-18	AJIM01	140022
+GCF_000344595.1	CheMyd_1.0	Chelonia mydas							NCBI Chelonia mydas Annotation Release 101	Scaffold	2013-03-18	AJIM01	140022
