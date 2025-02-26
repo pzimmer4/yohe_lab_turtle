@@ -1,0 +1,3 @@
+FAMILY	D.ananassae	D.erecta	D.grimshawi	D.melanogaster	D.mojavensis	D.pseudoobscura	D.simulans	D.virillis	D.yakuba
+1	1	1	2	2	1	1	1	1	2
+2	8	7	6	5	6	7	2	7	8

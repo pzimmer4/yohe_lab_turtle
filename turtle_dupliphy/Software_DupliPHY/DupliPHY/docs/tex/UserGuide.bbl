@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{ames2012determining}
+R.~Ames, D.~Money, V.~Ghatge, S.~Whelan, and S.~Lovell, ``Determining the
+  evolutionary history of gene families,'' {\em Bioinformatics}, vol.~28,
+  no.~1, pp.~48--55, 2012.
+
+\bibitem{sankoff1975locating}
+D.~Sankoff and P.~Rousseau, ``Locating the vertices of a steiner tree in an
+  arbitrary metric space,'' {\em Mathematical Programming}, vol.~9, no.~1,
+  pp.~240--246, 1975.
+
+\end{thebibliography}

@@ -1,0 +1,450 @@
+# 1.1
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	5	5	4	5	3	3	1	6	6	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	17	2	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.2
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	4	4	4	5	3	3	1	6	6	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	1	0	0	0	1	0	0	17	2	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.3
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	5	5	4	5	3	3	1	6	6	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	17	3	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	3	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.4
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	4	4	4	5	3	3	1	6	6	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	1	0	0	0	1	0	0	17	3	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	3	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.5
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	5	5	4	5	3	3	1	7	7	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	16	2	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.6
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	4	4	4	5	3	3	1	7	7	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	1	0	0	0	2	0	0	16	2	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	4	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.7
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	5	5	4	5	3	3	1	7	7	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	16	1	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.8
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	4	4	4	5	3	3	1	7	7	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	1	0	0	0	2	0	0	16	1	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.9
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	5	5	4	5	3	3	1	9	9	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	0	0	0	0	4	0	0	14	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.10
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	4	4	4	5	3	3	1	9	9	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	1	0	0	0	4	0	0	14	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.11
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	5	5	4	5	3	3	1	8	8	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	0	0	0	0	3	0	0	15	0	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.12
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	4	4	4	5	3	3	1	8	8	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	1	0	0	0	3	0	0	15	0	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.13
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	5	5	4	5	3	3	1	8	8	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	0	0	0	0	3	0	0	15	1	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	5	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.14
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	4	4	4	5	3	3	1	8	8	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	1	0	0	0	3	0	0	15	1	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	5	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.15
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	5	5	4	5	3	3	1	5	5	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	4	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.16
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	4	4	4	5	3	3	1	5	5	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	18	4	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.17
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	5	5	4	5	3	3	1	5	5	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	3	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.18
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	3	5	5	5	5	5	4	4	4	5	3	3	1	5	5	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	3	10	0
+dups	2	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	18	3	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	7	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+# 1.19
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	5	5	4	5	3	3	1	6	6	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	17	2	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.20
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	4	4	4	5	3	3	1	6	6	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	1	0	0	0	1	0	0	17	2	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.21
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	5	5	4	5	3	3	1	6	6	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	17	3	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	3	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.22
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	4	4	4	5	3	3	1	6	6	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	1	0	0	0	1	0	0	17	3	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	3	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.23
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	5	5	4	5	3	3	1	7	7	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	16	2	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.24
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	4	4	4	5	3	3	1	7	7	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	1	0	0	0	2	0	0	16	2	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	4	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.25
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	5	5	4	5	3	3	1	7	7	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	16	1	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.26
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	4	4	4	5	3	3	1	7	7	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	1	0	0	0	2	0	0	16	1	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.27
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	5	5	4	5	3	3	1	9	9	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	0	0	0	0	4	0	0	14	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.28
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	4	4	4	5	3	3	1	9	9	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	1	0	0	0	4	0	0	14	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.29
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	5	5	4	5	3	3	1	8	8	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	0	0	0	0	3	0	0	15	0	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.30
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	4	4	4	5	3	3	1	8	8	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	1	0	0	0	3	0	0	15	0	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.31
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	5	5	4	5	3	3	1	8	8	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	0	0	0	0	3	0	0	15	1	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	5	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.32
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	4	4	4	5	3	3	1	8	8	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	1	0	0	0	3	0	0	15	1	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	5	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.33
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	5	5	4	5	3	3	1	5	5	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	4	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.34
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	4	4	4	5	3	3	1	5	5	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	18	4	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.35
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	5	5	4	5	3	3	1	5	5	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	3	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.36
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	2	5	5	5	5	5	4	4	4	5	3	3	1	5	5	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	2	10	0
+dups	1	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	18	3	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	8	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2
+# 1.37
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	5	5	4	5	3	3	1	6	6	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	17	2	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.38
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	4	4	4	5	3	3	1	6	6	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	17	2	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.39
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	5	5	4	5	3	3	1	6	6	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	17	3	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	3	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.40
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	4	4	4	5	3	3	1	6	6	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	17	3	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	3	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.41
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	5	5	4	5	3	3	1	7	7	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	16	2	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.42
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	4	4	4	5	3	3	1	7	7	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	1	0	0	0	2	0	0	16	2	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	4	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.43
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	5	5	4	5	3	3	1	7	7	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	16	1	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.44
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	4	4	4	5	3	3	1	7	7	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	1	0	0	0	2	0	0	16	1	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.45
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	5	5	4	5	3	3	1	9	9	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	0	0	0	0	4	0	0	14	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.46
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	4	4	4	5	3	3	1	9	9	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	1	0	0	0	4	0	0	14	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.47
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	5	5	4	5	3	3	1	8	8	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	15	0	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.48
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	4	4	4	5	3	3	1	8	8	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	1	0	0	0	3	0	0	15	0	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.49
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	5	5	4	5	3	3	1	8	8	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	15	1	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	5	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.50
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	4	4	4	5	3	3	1	8	8	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	1	0	0	0	3	0	0	15	1	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	5	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.51
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	5	5	4	5	3	3	1	5	5	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	4	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.52
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	4	4	4	5	3	3	1	5	5	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	18	4	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.53
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	5	5	4	5	3	3	1	5	5	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	3	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.54
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	4	5	5	5	5	5	4	4	4	5	3	3	1	5	5	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	4	10	0
+dups	3	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	18	3	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	6	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+# 1.55
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	5	5	4	5	3	3	1	6	6	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	17	2	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.56
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	4	4	4	5	3	3	1	6	6	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	17	2	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.57
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	5	5	4	5	3	3	1	6	6	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	17	3	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	3	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.58
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	4	4	4	5	3	3	1	6	6	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	17	3	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	3	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.59
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	5	5	4	5	3	3	1	7	7	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	16	2	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.60
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	4	4	4	5	3	3	1	7	7	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	16	2	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	4	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.61
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	5	5	4	5	3	3	1	7	7	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	16	1	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.62
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	4	4	4	5	3	3	1	7	7	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	16	1	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.63
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	5	5	4	5	3	3	1	9	9	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	14	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.64
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	4	4	4	5	3	3	1	9	9	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	1	0	0	0	4	0	0	14	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.65
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	5	5	4	5	3	3	1	8	8	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	15	0	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.66
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	4	4	4	5	3	3	1	8	8	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	15	0	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.67
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	5	5	4	5	3	3	1	8	8	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	15	1	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	5	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.68
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	4	4	4	5	3	3	1	8	8	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	1	0	0	0	3	0	0	15	1	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	5	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.69
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	5	5	4	5	3	3	1	5	5	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	4	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.70
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	4	4	4	5	3	3	1	5	5	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	18	4	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.71
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	5	5	4	5	3	3	1	5	5	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	3	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.72
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	5	5	5	5	5	5	4	4	4	5	3	3	1	5	5	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	5	10	0
+dups	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	18	3	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	5	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	5
+# 1.73
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	5	5	4	5	3	3	1	6	6	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	17	2	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.74
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	4	4	4	5	3	3	1	6	6	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	1	0	0	0	1	0	0	17	2	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.75
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	5	5	4	5	3	3	1	6	6	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	17	3	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	3	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.76
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	4	4	4	5	3	3	1	6	6	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	1	0	0	0	1	0	0	17	3	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	3	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.77
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	5	5	4	5	3	3	1	7	7	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	16	2	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.78
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	4	4	4	5	3	3	1	7	7	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	1	0	0	0	2	0	0	16	2	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	4	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.79
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	5	5	4	5	3	3	1	7	7	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	16	1	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.80
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	4	4	4	5	3	3	1	7	7	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	1	0	0	0	2	0	0	16	1	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.81
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	5	5	4	5	3	3	1	9	9	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	0	0	0	0	4	0	0	14	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.82
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	4	4	4	5	3	3	1	9	9	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	1	0	0	0	4	0	0	14	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	6	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.83
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	5	5	4	5	3	3	1	8	8	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	0	0	0	0	3	0	0	15	0	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.84
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	4	4	4	5	3	3	1	8	8	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	1	0	0	0	3	0	0	15	0	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	5	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.85
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	5	5	4	5	3	3	1	8	8	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	0	0	0	0	3	0	0	15	1	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	5	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.86
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	4	4	4	5	3	3	1	8	8	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	1	0	0	0	3	0	0	15	1	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	5	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.87
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	5	5	4	5	3	3	1	5	5	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	4	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.88
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	4	4	4	5	3	3	1	5	5	3	23	9	9	9	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	18	4	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.89
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	5	5	4	5	3	3	1	5	5	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	3	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	0	0	1	0	2	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1
+# 1.90
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	1	5	5	5	5	5	4	4	4	5	3	3	1	5	5	3	23	8	9	8	8	11	5	6	5	5	5	3	5	6	4	4	4	4	4	5	2	2	2	2	2	2	2	5	6	5	5	3	7	8	19	8	7	5	5	2	5	7	26	35	26	7	1	10	0
+dups	0	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	18	3	1	0	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	11	0	0	0	0	0	0	2	19	9	0	0	0	9	0
+loss	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1

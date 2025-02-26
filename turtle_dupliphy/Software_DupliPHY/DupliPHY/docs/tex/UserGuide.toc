@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {0.1}Change log}{1}{section.0.1}
+\contentsline {section}{\numberline {0.2}License}{1}{section.0.2}
+\contentsline {section}{\numberline {0.3}Citation}{1}{section.0.3}
+\contentsline {section}{\numberline {0.4}Overview}{1}{section.0.4}
+\contentsline {section}{\numberline {0.5}Installation}{2}{section.0.5}
+\contentsline {section}{\numberline {0.6}Methods}{2}{section.0.6}
+\contentsline {section}{\numberline {0.7}Input data}{2}{section.0.7}
+\contentsline {subsection}{\numberline {0.7.1}Family file}{2}{subsection.0.7.1}
+\contentsline {subsection}{\numberline {0.7.2}Tree file}{3}{subsection.0.7.2}
+\contentsline {subsection}{\numberline {0.7.3}Results prefix}{4}{subsection.0.7.3}
+\contentsline {subsection}{\numberline {0.7.4}Matrix file (optional)}{4}{subsection.0.7.4}
+\contentsline {section}{\numberline {0.8}Running DupliPHY}{4}{section.0.8}
+\contentsline {section}{\numberline {0.9}Outputs}{5}{section.0.9}

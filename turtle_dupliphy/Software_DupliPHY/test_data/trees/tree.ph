@@ -1,0 +1,1 @@
+(((((D.melanogaster:1.0,D.simulans:1.0)A:2.0,(D.yakuba:2.0,D.erecta:2.0)B:1.0)C:2.0,D.ananassae:5.0)E:2.0,D.pseudoobscura:7.0)F:1.0,((D.mojavensis:6.0,D.virillis:6.0)G:1.0,D.grimshawi:7.0)H:1.0)Root:0.0;

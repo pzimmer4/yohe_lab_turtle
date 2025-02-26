@@ -1,0 +1,5 @@
+# 1.1
+type	in1	in2	in3	in4	in5	in6	in7	in8	maumut	mauree	in9	cuomcc	cuoamb	in10	in11	cheabi	aldgig	in12	gopfla	in13	gopevg	gopaga	in14	plameg	in15	in16	in17	actmar	emyorb	tercar	in18	in19	trascr	malter	chrpic	in20	in21	dercor	in22	in23	carcar	ereimb	chemyd	in24	cheser	dermaw	in25	carins	in26	in27	rafswi	apaspi	pelsin	in28	in29	pelcas	podexp	in30	in31	emysub	emymac	mestub	in32	allsin	galgal
+copy	12	12	12	15	29	52	52	52	73	47	52	59	51	52	52	21	127	54	54	54	56	43	29	25	30	32	32	33	32	41	30	30	23	33	30	15	6	3	6	4	2	4	6	15	33	15	12	9	12	12	12	14	10	24	24	25	22	29	30	33	30	29	12	55	2
+dups	11	0	0	3	14	23	0	0	21	0	0	7	0	0	0	0	75	2	0	0	2	0	0	0	1	2	0	1	0	9	0	0	0	3	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	2	0	12	0	1	0	5	1	3	0	0	0	43	0
+loss	0	0	0	0	0	0	0	0	0	5	0	0	1	0	0	31	0	0	0	0	0	11	0	4	0	0	0	0	0	0	0	0	7	0	0	0	9	3	0	2	2	0	0	0	0	0	0	3	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	10
